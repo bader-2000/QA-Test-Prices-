@@ -17,11 +17,11 @@ public class testPrices {
 	public void setup() {
 		myD.get(website);
 		WebElement textUser =  myD.findElement(By.xpath("//input[@id='user-name']"));
-		WebElement textpassword =  myD.findElement(By.xpath("//input[@id='password']"));
+		WebElement textPassword =  myD.findElement(By.xpath("//input[@id='password']"));
 		WebElement btnLogin = myD.findElement(By.xpath(login));
 		textUser.sendKeys(user);
-		textpassword.sendKeys(password);
-	btnLogin.click();	
+		textPassword.sendKeys(password);
+	    btnLogin.click();	
 		
 	}
 	
