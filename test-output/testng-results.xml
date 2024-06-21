@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-15T18:53:02 EET" name="Default suite" finished-at="2024-06-15T18:53:04 EET" duration-ms="2585">
+  <suite started-at="2024-06-21T14:05:17 EET" name="Default suite" finished-at="2024-06-21T14:05:20 EET" duration-ms="2561">
     <groups>
     </groups>
-    <test started-at="2024-06-15T18:53:02 EET" name="Default test" finished-at="2024-06-15T18:53:04 EET" duration-ms="2585">
+    <test started-at="2024-06-21T14:05:17 EET" name="Default test" finished-at="2024-06-21T14:05:20 EET" duration-ms="2561">
       <class name="testPricesProduct.testPrices">
-        <test-method signature="setup()[pri:1, instance:testPricesProduct.testPrices@2611b9a3]" started-at="2024-06-15T18:53:02 EET" name="setup" finished-at="2024-06-15T18:53:04 EET" duration-ms="2394" status="PASS">
+        <test-method signature="setup()[pri:1, instance:testPricesProduct.testPrices@58670130]" started-at="2024-06-21T14:05:17 EET" name="setup" finished-at="2024-06-21T14:05:19 EET" duration-ms="2260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addThePricesUpper$15()[pri:2, instance:testPricesProduct.testPrices@2611b9a3]" started-at="2024-06-15T18:53:04 EET" name="addThePricesUpper$15" finished-at="2024-06-15T18:53:04 EET" duration-ms="154" status="PASS">
+        <test-method signature="addThePricesUpper$15()[pri:2, instance:testPricesProduct.testPrices@58670130]" started-at="2024-06-21T14:05:19 EET" name="addThePricesUpper$15" finished-at="2024-06-21T14:05:20 EET" duration-ms="253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addThePricesUpper$15 -->
